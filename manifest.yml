@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: quote-quote
+      function: main
+      title: quote
+      description: Quote of the day
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/f838f753-4b44-4376-92c6-b1f3ff81a24c'
+  name: quote
