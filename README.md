@@ -1,6 +1,8 @@
 # Quote
 
-This project contains a Forge app written in Javascript that gets a positive quote and displays it in a JIRA issue panel. 
+Test it here: https://inspirational.atlassian.net/browse/IQA-1 (Access given to testing@devpost.com)
+
+This project contains a Forge app written in Javascript that gets a positive quote and displays it in a JIRA issue panel.
 
 ## Requirements
 
